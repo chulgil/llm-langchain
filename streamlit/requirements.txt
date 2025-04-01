@@ -9,3 +9,4 @@ langchain-text-splitters==0.3.7
 langchain-upstage==0.6.0
 langchainhub==0.1.21
 python-dotenv==1.1.0
+streamlit @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_52t8o6xfs8/croot/streamlit_1724335169234/work
