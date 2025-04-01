@@ -75,4 +75,4 @@ typing-inspect==0.9.0
 typing_extensions==4.12.2
 tzdata==2024.1
 urllib3==2.2.1
-yarl==1.9.4
+yarl==1.9.4langchain-upstage==0.6.0
